@@ -28,6 +28,10 @@
     color: gold;
 }
 
+.laet{
+    color: white;
+}
+
 .wrappost{
     margin-left: 30px;
     margin-bottom: 30px;
@@ -41,4 +45,38 @@
 .foot h6{
     color: whitesmoke;
 
+}
+
+.wrapper{
+    margin-left: 20px;
+}
+
+.nick{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.nick h1{
+    font-size: 16px;
+    color: white;
+}
+
+.nick span{
+    font-size: 12px;
+    color: white;
+}
+.po{
+    border-radius: 15px;
+}
+.imgh{
+    border-radius: 50px;
+}
+
+.btn{
+    border-radius: 5px;
+    background: moccasin;
+    color: red;
 }

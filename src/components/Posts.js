@@ -7,7 +7,9 @@ const Posts = () => {
 
     let [posts, setPost] = useState([
         {id: 1, message: 'Hi, how are you?', likesCount: 12},
-        {id: 2, message: "It is my first post", likesCount: 23}
+        {id: 2, message: "It is my first post", likesCount: 23},
+        {id: 3, message: "It is midka time", likesCount: 21},
+        {id: 5, message: "HELLO", likesCount: 33},
     ])
 
     let newPostText = 'Hello'
